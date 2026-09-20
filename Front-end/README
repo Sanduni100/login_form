@@ -1,0 +1,56 @@
+# Next.js MySQL Form App
+
+This project is a simple Next.js application that includes a form for saving data to a MySQL database. It demonstrates how to handle form submissions and interact with a database using an API route.
+
+## Project Structure
+
+```
+nextjs-mysql-form-app
+├── src
+│   ├── pages
+│   │   ├── api
+│   │   │   └── save-data.ts  # API route for saving data
+│   │   └── index.tsx          # Main entry point of the application
+│   ├── components
+│   │   └── DataForm.tsx       # Form component for user input
+│   ├── lib
+│   │   └── db.ts              # Database connection and query methods
+│   └── types
+│       └── index.ts           # TypeScript interfaces for data types
+├── package.json                # Project dependencies and scripts
+├── tsconfig.json               # TypeScript configuration
+└── README.md                   # Project documentation
+```
+
+## Setup Instructions
+
+1. **Clone the repository:**
+   ```
+   git clone <repository-url>
+   cd nextjs-mysql-form-app
+   ```
+
+2. **Install dependencies:**
+   ```
+   npm install
+   ```
+
+3. **Set up the MySQL database:**
+   - Create a MySQL database and configure the connection details in `src/lib/db.ts`.
+
+4. **Run the development server:**
+   ```
+   npm run dev
+   ```
+
+5. **Access the application:**
+   Open your browser and navigate to `http://localhost:3000`.
+
+## Usage
+
+- Fill out the form on the main page and submit it to save data to the MySQL database.
+- The API route at `src/pages/api/save-data.ts` handles the form submission and interacts with the database.
+
+## License
+
+This project is licensed under the MIT License.
