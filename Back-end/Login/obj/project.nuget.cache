@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "JDqzQ/B9m6Y=",
+  "dgSpecHash": "+JM96ihyaVo=",
   "success": true,
-  "projectFilePath": "C:\\Users\\Raveesha Sanduni\\Documents\\VS 2022 Projects\\ReactFormWeb\\ReactFormWeb\\ReactFormWeb.csproj",
+  "projectFilePath": "C:\\Users\\Raveesha Sanduni\\Downloads\\git projects\\login_form\\Back-end\\ReactFormWeb\\ReactFormWeb.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Raveesha Sanduni\\.nuget\\packages\\azure.core\\1.38.0\\azure.core.1.38.0.nupkg.sha512",
     "C:\\Users\\Raveesha Sanduni\\.nuget\\packages\\azure.identity\\1.11.4\\azure.identity.1.11.4.nupkg.sha512",
@@ -78,9 +78,9 @@
       "code": "NU1701",
       "level": "Warning",
       "message": "Package 'Microsoft.AspNet.Cors 5.3.0' was restored using '.NETFramework,Version=v4.6.1, .NETFramework,Version=v4.6.2, .NETFramework,Version=v4.7, .NETFramework,Version=v4.7.1, .NETFramework,Version=v4.7.2, .NETFramework,Version=v4.8, .NETFramework,Version=v4.8.1' instead of the project target framework 'net8.0'. This package may not be fully compatible with your project.",
-      "projectPath": "C:\\Users\\Raveesha Sanduni\\Documents\\VS 2022 Projects\\ReactFormWeb\\ReactFormWeb\\ReactFormWeb.csproj",
+      "projectPath": "C:\\Users\\Raveesha Sanduni\\Downloads\\git projects\\login_form\\Back-end\\ReactFormWeb\\ReactFormWeb.csproj",
       "warningLevel": 1,
-      "filePath": "C:\\Users\\Raveesha Sanduni\\Documents\\VS 2022 Projects\\ReactFormWeb\\ReactFormWeb\\ReactFormWeb.csproj",
+      "filePath": "C:\\Users\\Raveesha Sanduni\\Downloads\\git projects\\login_form\\Back-end\\ReactFormWeb\\ReactFormWeb.csproj",
       "libraryId": "Microsoft.AspNet.Cors",
       "targetGraphs": [
         "net8.0"
@@ -90,9 +90,9 @@
       "code": "NU1701",
       "level": "Warning",
       "message": "Package 'Microsoft.AspNet.WebApi.Core 5.3.0' was restored using '.NETFramework,Version=v4.6.1, .NETFramework,Version=v4.6.2, .NETFramework,Version=v4.7, .NETFramework,Version=v4.7.1, .NETFramework,Version=v4.7.2, .NETFramework,Version=v4.8, .NETFramework,Version=v4.8.1' instead of the project target framework 'net8.0'. This package may not be fully compatible with your project.",
-      "projectPath": "C:\\Users\\Raveesha Sanduni\\Documents\\VS 2022 Projects\\ReactFormWeb\\ReactFormWeb\\ReactFormWeb.csproj",
+      "projectPath": "C:\\Users\\Raveesha Sanduni\\Downloads\\git projects\\login_form\\Back-end\\ReactFormWeb\\ReactFormWeb.csproj",
       "warningLevel": 1,
-      "filePath": "C:\\Users\\Raveesha Sanduni\\Documents\\VS 2022 Projects\\ReactFormWeb\\ReactFormWeb\\ReactFormWeb.csproj",
+      "filePath": "C:\\Users\\Raveesha Sanduni\\Downloads\\git projects\\login_form\\Back-end\\ReactFormWeb\\ReactFormWeb.csproj",
       "libraryId": "Microsoft.AspNet.WebApi.Core",
       "targetGraphs": [
         "net8.0"
@@ -102,9 +102,9 @@
       "code": "NU1701",
       "level": "Warning",
       "message": "Package 'Microsoft.AspNet.WebApi.Cors 5.3.0' was restored using '.NETFramework,Version=v4.6.1, .NETFramework,Version=v4.6.2, .NETFramework,Version=v4.7, .NETFramework,Version=v4.7.1, .NETFramework,Version=v4.7.2, .NETFramework,Version=v4.8, .NETFramework,Version=v4.8.1' instead of the project target framework 'net8.0'. This package may not be fully compatible with your project.",
-      "projectPath": "C:\\Users\\Raveesha Sanduni\\Documents\\VS 2022 Projects\\ReactFormWeb\\ReactFormWeb\\ReactFormWeb.csproj",
+      "projectPath": "C:\\Users\\Raveesha Sanduni\\Downloads\\git projects\\login_form\\Back-end\\ReactFormWeb\\ReactFormWeb.csproj",
       "warningLevel": 1,
-      "filePath": "C:\\Users\\Raveesha Sanduni\\Documents\\VS 2022 Projects\\ReactFormWeb\\ReactFormWeb\\ReactFormWeb.csproj",
+      "filePath": "C:\\Users\\Raveesha Sanduni\\Downloads\\git projects\\login_form\\Back-end\\ReactFormWeb\\ReactFormWeb.csproj",
       "libraryId": "Microsoft.AspNet.WebApi.Cors",
       "targetGraphs": [
         "net8.0"

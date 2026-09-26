@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("ReactFormWeb")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+289fb715efaef678f0517a96b0cae864cb889d74")]
 [assembly: System.Reflection.AssemblyProductAttribute("ReactFormWeb")]
 [assembly: System.Reflection.AssemblyTitleAttribute("ReactFormWeb")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

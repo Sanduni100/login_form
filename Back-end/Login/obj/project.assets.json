@@ -3442,11 +3442,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Raveesha Sanduni\\Documents\\VS 2022 Projects\\ReactFormWeb\\ReactFormWeb\\ReactFormWeb.csproj",
+      "projectUniqueName": "C:\\Users\\Raveesha Sanduni\\Downloads\\git projects\\login_form\\Back-end\\ReactFormWeb\\ReactFormWeb.csproj",
       "projectName": "ReactFormWeb",
-      "projectPath": "C:\\Users\\Raveesha Sanduni\\Documents\\VS 2022 Projects\\ReactFormWeb\\ReactFormWeb\\ReactFormWeb.csproj",
+      "projectPath": "C:\\Users\\Raveesha Sanduni\\Downloads\\git projects\\login_form\\Back-end\\ReactFormWeb\\ReactFormWeb.csproj",
       "packagesPath": "C:\\Users\\Raveesha Sanduni\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Raveesha Sanduni\\Documents\\VS 2022 Projects\\ReactFormWeb\\ReactFormWeb\\obj\\",
+      "outputPath": "C:\\Users\\Raveesha Sanduni\\Downloads\\git projects\\login_form\\Back-end\\ReactFormWeb\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
